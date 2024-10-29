@@ -1,5 +1,7 @@
 # Dad Joke Generator
 
+This incredible website can be accessed at <a href="https://lucash-h.github.io/DadJokeGenerator">this link</a>. Please be aware that I have a limited number of API calls, although I doubt it'll get that much use.
+
 This is a website I created through doing small weekly projects. I have added it to its own directory so I can host it through github pages and potentially add some increased functionality in the future.
 
 Welcome to the Dad Joke Generator! I created this project because it seemed funny and I want to learn more about web development.
